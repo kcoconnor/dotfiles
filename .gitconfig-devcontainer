@@ -1,7 +1,0 @@
-[user]
-    signingkey=/home/vscode/.ssh/id_rsa.pub
-[core]
-    excludesfile=/home/vscode/.gitignore
-[gpg]
-    commit.gpgsign=true
-
